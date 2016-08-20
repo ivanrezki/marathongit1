@@ -10,5 +10,8 @@ package marathongit1;
  * @author Ivan Rezki
  */
 public class Testing1 {
+        public static void main(String[] args){
+            System.out.println("Hello World!!!");
+}
     
 }
